@@ -1,0 +1,11 @@
+# Archivos con secretos - NUNCA subir
+.Renviron
+secrets.R
+*_secrets.R
+*.env
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
