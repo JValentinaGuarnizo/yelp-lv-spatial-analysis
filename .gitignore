@@ -9,3 +9,6 @@ secrets.R
 .Rhistory
 .RData
 .Ruserdata
+
+# Datos crudos grandes (>50MB) - no aptos para GitHub sin LFS
+yelp-lv-spatial/data/*.rds
